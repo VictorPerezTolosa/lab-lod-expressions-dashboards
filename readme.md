@@ -1,3 +1,7 @@
+
+You can find this LAB done in my Tableau Public profile under the name of [Lab | LOD expressions and Dashboards](https://public.tableau.com/views/LabLODexpressionsandDashboards_16718236710600/Dashboard1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link).
+
+
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 # Lab | LOD expressions and Dashboards
